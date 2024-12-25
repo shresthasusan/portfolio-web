@@ -8,7 +8,7 @@ const page = () => {
       <main className="mt-64">
         <div className="text-white text-8xl">
           <p>Hi!</p>
-          <p>I'm</p>
+          <p>I&apos;m</p>
           <p>
             <TypingAnimation text={"Susan"} interval={146}></TypingAnimation>
           </p>
