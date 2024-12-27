@@ -5,12 +5,18 @@
 :root {
   --background: #18181b;
   --foreground: #ffff;
+  --primary: #6366f1;
+  --secondary: #4f46e5;
+  --accent: #a5b4fc;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
     --background: #18181b;
     --foreground: #ededed;
+    --primary: #6366f1;
+    --secondary: #4f46e5;
+    --accent: #a5b4fc;
   }
 }
 
@@ -19,5 +25,4 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
   scale: 1;
-  padding: 10px;
 }
