@@ -219,7 +219,7 @@ const page = () => {
                         </div>
                       </div>
                     </div>
-                    <div className="flex flex-col">
+                    <div className="flex flex-col text-neutral-300">
                       <div className="flex items-center no-wrap gap-2 font-bold text-xl">
                         <SourceCodeCircleIcon size={24} color={"#a5b4fc"} />{" "}
                         Next on my list
