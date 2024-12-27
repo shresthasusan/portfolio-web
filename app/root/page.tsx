@@ -1,14 +1,7 @@
-import Image from "next/image";
 import React from "react";
 import {
-  CodeCircleIcon,
-  CodeFolderIcon,
-  CodeIcon,
-  CodesandboxIcon,
-  Link02Icon,
+
   Linkedin01Icon,
-  Linkedin02Icon,
-  Mail01Icon,
   MailEdit02Icon,
   NewTwitterEllipseIcon,
   SourceCodeCircleIcon,
@@ -136,8 +129,8 @@ const page = () => {
                   <span className="text-primary">Front End Developer</span>
                 </p>
                 <p className="text-xl text-neutral-300 mt-5">
-                  "Turning Curiosity into Code – Building Digital Solutions One
-                  Line at a Time."
+                  &quot;Turning Curiosity into Code – Building Digital Solutions One
+                  Line at a Time.&quot;
                 </p>
                 <p className="text-neutral-300 mt-2">
                   <span className="italic">Aspiring Developer </span> |
@@ -165,23 +158,23 @@ const page = () => {
                       <span className="bg-primary float-left text-3xl rounded-md py-2 px-4  mx-1">
                         H
                       </span>
-                      ey! I&apos;m Susan, and I've been curious about web
+                      ey! I&apos;m Susan, and I&apos;ve been curious about web
                       development since middle school. I officially got into it
-                      at 15, and ever since, it's been a journey of learning,
+                      at 15, and ever since, it&apos;s been a journey of learning,
                       building, and exploring.
                       <br />
                       <br />
-                      When I'm not coding, you'll find me playing guitar,
+                      When I&apos;m not coding, you&apos;ll find me playing guitar,
                       staring at the sky, or getting lost in the world of arts
                       and science. I enjoy diving into movies and series every
-                      now and then – it's a nice way to unwind and spark new
+                      now and then – it&apos;s a nice way to unwind and spark new
                       ideas.
                       <br />
                       <br />
-                      I'm always excited to learn something new, whether it's a
+                      I&apos;m always excited to learn something new, whether it&apos;s a
                       cool framework or a random fact about the universe. If
-                      you're working on something creative or techy, let's
-                      connect – I'm always up for new opportunities and
+                      you&apos;re working on something creative or techy, let&apos;s
+                      connect – I&apos;m always up for new opportunities and
                       collaborations!
                     </p>
                   </div>
