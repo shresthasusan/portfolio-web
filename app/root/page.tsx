@@ -1,6 +1,5 @@
 import React from "react";
 import {
-
   Linkedin01Icon,
   MailEdit02Icon,
   NewTwitterEllipseIcon,
@@ -129,8 +128,8 @@ const page = () => {
                   <span className="text-primary">Front End Developer</span>
                 </p>
                 <p className="text-xl text-neutral-300 mt-5">
-                  &quot;Turning Curiosity into Code – Building Digital Solutions One
-                  Line at a Time.&quot;
+                  &quot;Turning Curiosity into Code – Building Digital Solutions
+                  One Line at a Time.&quot;
                 </p>
                 <p className="text-neutral-300 mt-2">
                   <span className="italic">Aspiring Developer </span> |
@@ -140,7 +139,7 @@ const page = () => {
                     Crafting Projects with Passion and Precision
                   </span>
                   <br /> <br /> <br />
-                  <Button children={"View Projects"} htmlFor={"about"} />
+                  <Button string={"View Projects"} htmlFor={"about"} />
                 </p>
               </span>
               <DottedBg />
@@ -160,22 +159,22 @@ const page = () => {
                       </span>
                       ey! I&apos;m Susan, and I&apos;ve been curious about web
                       development since middle school. I officially got into it
-                      at 15, and ever since, it&apos;s been a journey of learning,
-                      building, and exploring.
+                      at 15, and ever since, it&apos;s been a journey of
+                      learning, building, and exploring.
                       <br />
                       <br />
-                      When I&apos;m not coding, you&apos;ll find me playing guitar,
-                      staring at the sky, or getting lost in the world of arts
-                      and science. I enjoy diving into movies and series every
-                      now and then – it&apos;s a nice way to unwind and spark new
-                      ideas.
+                      When I&apos;m not coding, you&apos;ll find me playing
+                      guitar, staring at the sky, or getting lost in the world
+                      of arts and science. I enjoy diving into movies and series
+                      every now and then – it&apos;s a nice way to unwind and
+                      spark new ideas.
                       <br />
                       <br />
-                      I&apos;m always excited to learn something new, whether it&apos;s a
-                      cool framework or a random fact about the universe. If
-                      you&apos;re working on something creative or techy, let&apos;s
-                      connect – I&apos;m always up for new opportunities and
-                      collaborations!
+                      I&apos;m always excited to learn something new, whether
+                      it&apos;s a cool framework or a random fact about the
+                      universe. If you&apos;re working on something creative or
+                      techy, let&apos;s connect – I&apos;m always up for new
+                      opportunities and collaborations!
                     </p>
                   </div>
                   <div className="flex flex-col gap-10 mt-10 max-w-96 ">
@@ -245,12 +244,11 @@ const page = () => {
                           SQL
                         </div>
                         <div className="bg-neutral-700 py-2 px-4 rounded-xl">
-                       Ruby
+                          Ruby
                         </div>
                         <div className="bg-neutral-700 py-2 px-4 rounded-xl">
                           .Net
                         </div>
-                       
                       </div>
                     </div>
                   </div>
