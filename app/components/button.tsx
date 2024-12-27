@@ -3,7 +3,7 @@
 import React from "react";
 
 interface ButtonProps {
-  children: React.ReactNode;
+  children: string;
   className?: string;
   htmlFor: string;
 }
