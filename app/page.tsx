@@ -1,5 +1,6 @@
 import React from "react";
 import {
+  Github01Icon,
   Linkedin01Icon,
   MailEdit02Icon,
   NewTwitterEllipseIcon,
@@ -176,8 +177,15 @@ const page = () => {
                       techy, let&apos;s connect – I&apos;m always up for new
                       opportunities and collaborations!
                     </p>
+                    <p className="text-accent mt-5 flex items-center gap-2">
+                      My Links &rarr;
+                      <span className="flex items-center gap-4  ">
+                        <Github01Icon size={24} />
+                        <Linkedin01Icon size={24} />
+                      </span>
+                    </p>
                   </div>
-                  <div className="flex flex-col gap-10 mt-10 max-w-96 ">
+                  <div className="flex flex-col gap-10 mt-10 max-w-96 language-section ">
                     <div className="flex flex-col">
                       <div className="flex items-center no-wrap gap-2 font-bold text-xl">
                         <SourceCodeCircleIcon size={24} color={"#a5b4fc"} />{" "}
@@ -219,7 +227,7 @@ const page = () => {
                         </div>
                       </div>
                     </div>
-                    <div className="flex flex-col text-neutral-300">
+                    <div className="flex flex-col text-neutral-300 Next-on-my-list">
                       <div className="flex items-center no-wrap gap-2 font-bold text-xl">
                         <SourceCodeCircleIcon size={24} color={"#a5b4fc"} />{" "}
                         Next on my list

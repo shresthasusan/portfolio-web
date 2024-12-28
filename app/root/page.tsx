@@ -99,7 +99,7 @@ const page = () => {
         </div>
         <div className=" flex flex-col mt-[72px] items-center justify-center">
           <main className="flex flex-col gap-40  mt-16  max-w-[1400px]">
-            <div className="hero-section flex flex-col relative">
+            <div className="hero-section flex flex-col max-w-fit  relative">
               <span className="text-section z-10 ">
                 <div className="text-white text-9xl font-black">
                   <p>
