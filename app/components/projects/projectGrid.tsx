@@ -25,7 +25,7 @@ const projects = [
     title: "Hult at acem",
     imageSrc: "/hultatacem.jpeg",
     imageAlt: "An image of the Paint.app project.",
-    technologies: ["Flutter", "MUI", "Python", "FastAPI"],
+    technologies: ["tailwind css", "Next.js"],
     description: "webpage for Hult at acem",
     githubUrl: "https://www.github.com/hultatacem/hultatacem",
     liveUrl: "https://www.hultatacem.com",
