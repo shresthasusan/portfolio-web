@@ -23,7 +23,7 @@ const projects = [
   },
   {
     title: "Hult at acem",
-    imageSrc: "/hultatacem.jpg",
+    imageSrc: "/hultatacem.jpeg",
     imageAlt: "An image of the Paint.app project.",
     technologies: ["Flutter", "MUI", "Python", "FastAPI"],
     description: "webpage for Hult at acem",
