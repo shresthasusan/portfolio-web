@@ -1,6 +1,4 @@
-import { Github01Icon, Linkedin01Icon } from "hugeicons-react";
 import React from "react";
-import Languages from "./about-section/languages";
 
 const Education = () => {
   const educationData = [
