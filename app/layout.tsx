@@ -25,7 +25,7 @@ export default function RootLayout({
         <link rel="icon" href="/favicon.ico" />
         <title>Susan Shrestha</title>
       </head>
-      <body className={` ${poppins.className} antialiased flex`}>
+      <body className={` ${poppins.className} antialiased flex `}>
         {children}
       </body>
     </html>
